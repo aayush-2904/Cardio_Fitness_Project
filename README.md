@@ -13,3 +13,5 @@ The following customer variables were identified for the study:
 * average number of times the customer plans to use the treadmill each week.
 * average number of miles the customer expects to walk/run each week.
 * self-rated fitness on an 1-to-5 scale, where 1 is poor shape and 5 is excellent shape.
+
++ Sharing my understanding on EDA techniques using python to extract useful insights from a dataset that contains data for customers of the treadmill products of a retail store called Cardio Good Fitness.
